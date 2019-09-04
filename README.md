@@ -1,4 +1,4 @@
-#Finding near-duplicates text  in Big Data using using Locality Sensitive Hashing (LSH) 
+# Finding near-duplicates text  in Big Data using using Locality Sensitive Hashing (LSH) 
 
 Near-duplicates text detection in large collection of documents (Big Data) is a challenging problem. This project intends identify very simmilar or duplicate questions in the Stack Overfow platform using Locality-sensitive Hashing algorithm(LSH). Experiment over a small set of stack overflow question is provided here; however it can be spanded to the full datasetwith more than a million questions. 
 
